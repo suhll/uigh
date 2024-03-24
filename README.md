@@ -21,7 +21,7 @@ Our AI features use random APIs to run, so sometimes they may be down.
 
 <h2 align="center">   
 
-- Fork this repo by tapping  [here](https://github.com/Fortunatusmokaya/dreaded-md/fork)
+- Fork this repo by tapping  [here](https://github.com/suhll/uigh/fork)
 
 
 ## Pairing:
@@ -37,7 +37,7 @@ Our AI features use random APIs to run, so sometimes they may be down.
    - ***[`CREATE HEROKU ACCOUNT`](https://signup.heroku.com/) `if you don't have one.`***
 
 
-- ***Now [`DEPLOY TO HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/Fortunatusmokaya/dreaded-md).***
+- ***Now [`DEPLOY TO HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/suhll/uigh).***
 
 -***`Fill in all the required variables and deploy the bot.`***
 
