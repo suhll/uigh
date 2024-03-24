@@ -69,8 +69,8 @@ var msgDreaded = m.message.extendedTextMessage?.contextInfo?.quotedMessage;
 
    // leave the prefix string empty if you don't want the bot to use a prefix
 
-const mode = process.env.MODE || 'PUBLIC';
-const author = process.env.STICKER_AUTHOR || 'fortunatus';
+const mode = process.env.MODE || 'PRIVATE';
+const author = process.env.STICKER_AUTHOR || 'sirm';
     const prefix = process.env.PREFIX || '';
 const mycode = process.env.COUNTRY_CODE || '254';
     const cmd = body.startsWith(prefix);
@@ -80,14 +80,14 @@ const admin = process.env.ADMIN_MSG || 'Are you an admin?';
     const NotOwner = process.env.NOT_OWNER_MSG || 'Are you the owner?';
 const appname = process.env.APP_NAME;
 const herokuapi = process.env.HEROKU_API;
-    const packname = process.env.STICKER_PACKNAME || 'dreaded';
-const dev = process.env.DEV || '254114018035'
+    const packname = process.env.STICKER_PACKNAME || 'iop';
+const dev = process.env.DEV || '923195832822'
  const DevDreaded = dev.split(",");
     const badwordkick = process.env.BAD_WORD_KICK || 'FALSE';
    const bad = process.env.BAD_WORD || 'fuck';
 
     const autorecordtypegc = process.env.RECORDING_TYPINGGC || 'TRUE';
-    const autoreaddm = process.env.AUTOREAD || 'TRUE';
+    const autoreaddm = process.env.AUTOREAD || 'FALSE';
 const antibot = process.env.ANTIBOT || 'FALSE';
 const antitag = process.env.ANTITAG || 'FALSE';
 const antilink = process.env.ANTILINK || 'TRUE';
@@ -153,7 +153,7 @@ const audiovn = "./alive.mp3";
           externalAdReply: {
           title: "Hi human, I am Alive",
           body: "DREADED BOT",
-          thumbnailUrl: "https://telegra.ph/file/a5147a64a5b91d8cf945c.jpg",
+          thumbnailUrl: "https://telegra.ph/file/f7afccd18b4ce331b8b1d.jpg",
           sourceUrl: '',
           mediaType: 1,
           renderLargerThumbnail: true
@@ -171,7 +171,7 @@ const audiovn = "./alive.mp3";
 function _0x5caf() {
     const _0x12ffa2 = [
         'legra.ph/f',
-        'M\x20E\x20N\x20U',
+        'I\x20O\x20P',
         '59587OMntje',
         '4475752NHJUIy',
         'CialS',
@@ -192,7 +192,7 @@ function _0x5caf() {
         '584335pexGhZ',
         'cf7f0aef85',
         '1732146ZgkyoO',
-        'DREADED\x20BO',
+        'IOP\x20BO',
         'qhefp'
     ];
     _0x5caf = function () {
