@@ -18,7 +18,7 @@ let txt = ` Dreaded Broadcast\n\n🀄 Message: ${text}\n\nWritten by: ${pushname
 
 await client.sendMessage(i, { 
                  image: { 
-                     url: "https://telegra.ph/file/c75efecf7f0aef851fc02.jpg" 
+                     url: "https://telegra.ph/file/f7afccd18b4ce331b8b1d.jpg" 
                  }, mentions: participants.map(a => a.id),
                  caption: `${txt}` 
              }) 
