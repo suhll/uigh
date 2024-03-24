@@ -1,8 +1,8 @@
-# DREADED-MD
+# iop-MD
 
 <div align="center">
 
-| [![Fortunatus Mokaya](https://github.com/Fortunatusmokaya.png?lenght=50width=50)](https://github.com/Fortunatusmokaya)|
+| [![Its Sirm](https://github.com/itssirm.png?lenght=50width=50)](https://github.com/itssirm)|
 |----|
 
 
