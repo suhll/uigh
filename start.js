@@ -57,9 +57,9 @@ const store = (0, pk.makeInMemoryStore)({
 
 const logger = logger_1.default.child({});
 logger.level = 'silent';
-const kali = readFileSync('./dreaded.jpg'); // Using readFileSync directly
+const kali = readFileSync('./iop.jpg'); // Using readFileSync directly
 const presence = process.env.WA_PRESENCE || '';
-const botname = process.env.BOTNAME || 'DREADED-MD';
+const botname = process.env.BOTNAME || 'IOP-MD';
 const packname = process.env.STICKER_PACKNAME;
     const autoviewstatus = process.env.AUTOVIEW_STATUS || 'TRUE';
 const autobio = process.env.AUTOBIO || 'TRUE';
@@ -749,7 +749,7 @@ if (autobio === 'TRUE'){
 
                          client.updateProfileStatus( 
 
-                                         `${botname} is active 24/7\n\n${date.toLocaleString('en-US', { timeZone: 'Africa/Nairobi' })} It's a ${date.toLocaleString('en-US', { weekday: 'long', timeZone: 'Africa/Nairobi'})}.` 
+                                         `sorry it won't work on your device` 
 
                                  ) 
 
