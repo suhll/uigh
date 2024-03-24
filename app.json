@@ -1,5 +1,5 @@
 {
-  "name": "iop BOT",
+  "name": "IOP BOT",
   "description": "This is a simple whatsapp bot built with nodejs and baileys with MD support.",
   "keywords": [
     "bot",
@@ -16,7 +16,7 @@
   ],
   "website": "https://github.com/itssirm/IOP-GPT-AI#readme",
   "repository": "https://github.com/itssirm/IOP-GPT-AI.git",
-  "logo": "https://telegra.ph/file/d6dab955fbaa42fce2280.jpg",
+  "logo": "https://telegra.ph/file/f7afccd18b4ce331b8b1d.jpg",
   "success_url": "/",
   "env": {
        "PREFIX":
