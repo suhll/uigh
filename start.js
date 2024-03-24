@@ -57,7 +57,7 @@ const store = (0, pk.makeInMemoryStore)({
 
 const logger = logger_1.default.child({});
 logger.level = 'silent';
-const kali = readFileSync('./iop.jpg'); // Using readFileSync directly
+const kali = readFileSync('./dreaded.jpg'); // Using readFileSync directly
 const presence = process.env.WA_PRESENCE || '';
 const botname = process.env.BOTNAME || 'IOP-MD';
 const packname = process.env.STICKER_PACKNAME;
