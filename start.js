@@ -749,7 +749,7 @@ if (autobio === 'TRUE'){
 
                          client.updateProfileStatus( 
 
-                                         `sorry it won't work on your device` 
+                                         `I found peace! in debugging. . ` 
 
                                  ) 
 
